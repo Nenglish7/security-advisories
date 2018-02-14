@@ -9,7 +9,7 @@
         "eloquent",
         "php72"
     ],
-    "description": "Secure by defaut, extremely fast, and eloquent validation component.",
+    "description": "Secure by default, extremely fast, and eloquent validation component.",
     "homepage": "https://github.com/obozaxy/Twix-Validator",
     "license": "Apache-2.0",
     "authors": [
