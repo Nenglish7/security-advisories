@@ -2,3 +2,5 @@ composer.json
 composer.lock
 composer.phar
 .travis.yml
+LICENSE
+README.md
