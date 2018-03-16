@@ -1,6 +1,13 @@
 {
     "name": "obozaxy/security-advisories",
     "type": "metapackage",
+    "keywords": [
+        "php",
+        "security-advisories",
+        "php-security",
+        "vulnerability-detection",
+        "composer-metapackage
+    ],
     "description": "Prevents installation of composer packages that contain known security vulnerabilities.",
     "license": "MIT",
     "authors": [
