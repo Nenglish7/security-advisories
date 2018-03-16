@@ -6,7 +6,7 @@
         "security-advisories",
         "php-security",
         "vulnerability-detection",
-        "composer-metapackage
+        "composer-metapackage"
     ],
     "description": "Prevents installation of composer packages that contain known security vulnerabilities.",
     "license": "MIT",
